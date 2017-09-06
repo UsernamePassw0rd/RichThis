@@ -1,0 +1,8 @@
+D:\DEMO Project\C#\Number\RichThis\RichThis\bin\Debug\RichThis.exe
+D:\DEMO Project\C#\Number\RichThis\RichThis\bin\Debug\RichThis.pdb
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\ResolveAssemblyReference.cache
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\RichThis.Properties.Resources.resources
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\RichThis.csproj.GenerateResource.Cache
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\RichThis.exe
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\RichThis.pdb
+D:\DEMO Project\C#\Number\RichThis\RichThis\obj\Debug\RichThis.frmRichThis.resources
